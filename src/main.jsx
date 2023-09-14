@@ -2,11 +2,11 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
 import About from "./Components/About.jsx";
-import Contacts from "./Components/Contacts.js";
-import Navbar from "./Components/Navbar.js";
-import Projects from "./Components/Projects.js";
-import Skills from "./Components/Skills.js";
-import Testimonials from "./Components/Testimonials.js";
+import Contacts from "./Components/Contacts.jsx";
+import Navbar from "./Components/Navbar.jsx";
+import Projects from "./Components/Projects.jsx";
+import Skills from "./Components/Skills.jsx";
+import Testimonials from "./Components/Testimonials.jsx";
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
