@@ -11,11 +11,11 @@ import Testimonials from "./Components/Testimonials.jsx";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <About/>
-    <Contacts/>
-    <Navbar/>
-    <Projects />
-    <Skills />
-    <Testimonials />
+      <Navbar/>
+      <About/>
+      <Contacts/>
+      <Projects />
+      <Skills />
+      <Testimonials />
   </React.StrictMode>,
 )
