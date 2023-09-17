@@ -8,6 +8,7 @@ export default function Navbar() {
                     </button>
                 </li>
                 <li>
+
                     <button className="ease-linear duration-200 px-3 py-2 hover:bg-light-gray rounded">
                         Contact
                     </button>
