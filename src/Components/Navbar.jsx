@@ -8,17 +8,17 @@ export default function Navbar() {
                     </button>
                 </li>
                 <li>
-                    <button className="ease-linear duration-200 hover:scale-110 px-3 py-2 rounded">
+                    <button className="ease-linear duration-200 px-3 py-2 hover:bg-light-gray rounded">
                         Contact
                     </button>
                 </li>
                 <li>
-                    <button className="px-3 py-2 ease-linear duration-200 hover:underline decoration-amber-50s hover:rounded">
+                    <button className="ease-linear duration-200 px-3 py-2 hover:bg-light-gray rounded">
                         Projects
                     </button>
                 </li>
                 <li>
-                    <button className="px-3 py-2 hover:bg-light-gray rounded">
+                    <button className="ease-linear duration-200 px-3 py-2 hover:bg-light-gray rounded">
                         Skills
                     </button>
                 </li>
