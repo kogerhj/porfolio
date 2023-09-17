@@ -12,6 +12,9 @@ export default {
             "dark-gray": "#22313f",
             "light-gray": "#34495e",
         },
+        boxShadow: {
+            '2xl': '0px 0px 5px 0px rgba(255,255,255,0.25);'
+        },
     },
   },
   plugins: [],
