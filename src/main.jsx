@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Navbar/>
       <Home />
       <About/>
-      <Contact/>
+      {/*<Contact/>*/}
       {/*<Projects />*/}
       <Skills />
       <Testimonials />
