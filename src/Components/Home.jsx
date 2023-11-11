@@ -12,18 +12,18 @@ return (
                     solve one more problem, to automate one more task,
                     to drink one more cup of coffee
                 </p>
-                <div className="m-auto flex flex-col md:flex-row">
-                    <a
-                    href="#contact"
-                    className="ml-2 mt-2 text-white bg-sky-blue border-0 py-2 px-10 ease-linear duration-200 focus:outline-non hover:bg-powder-blue hover:text-light-gray rounded text-lg">
-                        Work with me
-                    </a>
-                    <a
-                    href="#projects"
-                    className="ml-2 mt-2 flex text-white bg-sky-blue border-0 py-2 px-6 ease-linear duration-200 focus:outline-non hover:bg-powder-blue hover:text-light-gray rounded text-lg">
-                        See what I&apos;ve done
-                    </a>
-                </div>
+                {/*<div className="m-auto flex flex-col md:flex-row">*/}
+                {/*    <a*/}
+                {/*    href="#contact"*/}
+                {/*    className="ml-2 mt-2 text-white bg-sky-blue border-0 py-2 px-10 ease-linear duration-200 focus:outline-non hover:bg-powder-blue hover:text-light-gray rounded text-lg">*/}
+                {/*        Work with me*/}
+                {/*    </a>*/}
+                {/*    <a*/}
+                {/*    href="#projects"*/}
+                {/*    className="ml-2 mt-2 flex text-white bg-sky-blue border-0 py-2 px-6 ease-linear duration-200 focus:outline-non hover:bg-powder-blue hover:text-light-gray rounded text-lg">*/}
+                {/*        See what I&apos;ve done*/}
+                {/*    </a>*/}
+                {/*</div>*/}
             </div>
         </div>
     </section>

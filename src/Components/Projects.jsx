@@ -45,3 +45,9 @@
 //         </section>
 //     );
 // }
+
+export default function Projects () {
+    return (
+        <h3>Projects tab works</h3>
+    )
+}
